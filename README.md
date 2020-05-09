@@ -1,5 +1,11 @@
 ### Simple Path Optimiser
 
+#### Demo
+
+[Live Demo](https://irfancoder.github.io/path-optimiser/)
+
+#### About
+
 This is a simple project inspired by a problem faced while I was working as a bazaar food runner during Ramadhan, but is applicable to any delivery services under the sun.
 
 This app uses an algorithm that optimises the path of delivery if you are delivering to multiple locations and recommends the best shortest path for you to take.
