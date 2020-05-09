@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/path-optimiser/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/path-optimiser/static/js/main.345d1d65.chunk.js",
+    "main.js.map": "/path-optimiser/static/js/main.345d1d65.chunk.js.map",
+    "runtime-main.js": "/path-optimiser/static/js/runtime-main.1fa289b6.js",
+    "runtime-main.js.map": "/path-optimiser/static/js/runtime-main.1fa289b6.js.map",
+    "static/js/2.cabf4aa1.chunk.js": "/path-optimiser/static/js/2.cabf4aa1.chunk.js",
+    "static/js/2.cabf4aa1.chunk.js.map": "/path-optimiser/static/js/2.cabf4aa1.chunk.js.map",
+    "index.html": "/path-optimiser/index.html",
+    "precache-manifest.09c414edece7cfa50be125ea36351bea.js": "/path-optimiser/precache-manifest.09c414edece7cfa50be125ea36351bea.js",
+    "service-worker.js": "/path-optimiser/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/path-optimiser/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.cabf4aa1.chunk.js.LICENSE.txt": "/path-optimiser/static/js/2.cabf4aa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fa289b6.js",
+    "static/js/2.cabf4aa1.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.345d1d65.chunk.js"
+  ]
+}
